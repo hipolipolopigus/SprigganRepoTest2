@@ -1,4 +1,1 @@
-SprigganRepoTest2
-=================
-
-Testing a new mod management system.
+Depends on [hipolipolopigus/SprigganRepoTest](http://hipolipolopigus/SprigganRepoTest)
